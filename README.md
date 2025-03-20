@@ -8,7 +8,7 @@ I'm a strategic Customer Success leader with experience driving enterprise adopt
 Customer Success innovation, SaaS adoption strategies, data-driven decision making, and leveraging AI to enhance client experience. I'm passionate about building scalable processes that help organizations maximize their technology investments.
 
 ## 🌱 I'm currently learning...
-Advanced data analytics for customer health scoring and predictive churn modeling. Exploring AI-powered solutions for customer success automation and expanding my knowledge in enterprise SaaS implementation strategies across government and healthcare sectors.
+Advanced data analytics for customer health scoring and predictive churn modeling, which directly complements my expertise in the strategic implementation of AI-driven enterprise SaaS solutions. In this role, I've leveraged advanced technologies to optimize client outcomes and am actively expanding my sector focus beyond government, education and healthcare to include financial services and manufacturing across diverse industries.
 
 ## 💞️ I'm looking to collaborate on...
 - Customer Success frameworks and playbooks
