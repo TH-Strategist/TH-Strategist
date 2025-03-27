@@ -25,8 +25,7 @@ Advanced data analytics for customer health scoring and predictive churn modelin
 She/Her
 
 ## ⚡ Fun fact
-I've managed customer success for virtual reality training platforms and helped develop certification programs used by over 300 organizations across education, government, and industry sectors!
-
+Passionate about both hitting the hiking trails and helping customers succeed. Let's explore! 🥾
 ---
 
 ### Portfolio Highlights
