@@ -25,8 +25,8 @@ Advanced data analytics for customer health scoring and predictive churn modelin
 She/Her
 
 ## ⚡ Fun fact
-Passionate about both hitting the hiking trails and helping customers succeed. Let's explore! 🥾
----
+Passionate about both hitting the hiking trails and helping customers succeed. Let's explore!🥾
+
 
 ### Portfolio Highlights
 
